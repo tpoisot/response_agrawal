@@ -6,6 +6,9 @@
 
 One to two § of introduction (what the original paper is about)
 
+A point: there is a confusion between OA journals, the OA model, and predatory
+publishing. We should think about a paragraph to clear things up.
+
 **Point 1**
 
 We feel that the first point, "know your publisher's business model", is
@@ -24,6 +27,15 @@ for non-predatory OA), the society level, or through a corporation managing
 a large portfolio of journals and strictly enforcing copyright.
 
 **Point 2**
+
+It's true that, as a cost-saving measure, many pure-OA journals do not
+copyedit the papers they receive (although this is not a general truth;
+journals like *Ecology & Evolution*, *F1000Research*, and *PeerJ* practice
+copyediting). Yet many mixed-models OA offer the same quality of service to
+authors, regardless of whether they choose an OA licence or not for their
+article. On the other hand, we question the validity of figures modification
+as a relevant argument. Except for a handful of high-profile publications,
+most journals do not alter the figures at all.
 
 **Point 3**
 

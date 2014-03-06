@@ -1,1 +1,21 @@
-Journal, Publisher, Selective?, IF, Journal policy quote,Journal policy linkPLoS One, PLoS, no, ,"PLOS ONE uses peer review to determine whether a paper is technically sound and worthy of inclusion in the published scientific record. Once the work is published in PLOS ONE, the broader community is then able to discuss and evaluate the significance of the article",http://www.plosone.org/static/reviewerGuidelinesPLoS Biology, PLoS, yes,,,PLOS Medicine,,,,,PLOS Genetics,,,,,PLOS Computational Biology,,,,,PLOS Pathogens,,,,,PLOS Neglected Tropical Diseases,,,,,PLOS Currents,,,,,BMC Evolutionary Biology, Springer, minor, ,"It is journal policy to publish work deemed by peer reviewers to be a coherent and sound addition to scientific knowledge and to put less emphasis on interest levels, provided that the research constitutes a useful contribution to the field.",http://www.biomedcentral.com/bmcevolbiolBMC Biology, Springer, yes,,,BMC Ecology,,,,,BMC Genetics,,,,,BMC Genomics,,,,,BMC Bioinformatics,,,,,Ecology and Evolution,,,,,Elife,,,,The PeerJ,,,,
+Journal	 Publisher	 Selective?	 IF	 Journal policy quote	Journal policy link
+PLOS One	PLOS	 no	3.73	PLOS ONE uses peer review to determine whether a paper is technically sound and worthy of inclusion in the published scientific record. Once the work is published in PLOS ONE, the broader community is then able to discuss and evaluate the significance of the article	http://www.plosone.org/static/reviewerGuidelines
+PLOS Biology	PLOS	 yes	12.69		
+PLOS Medicine	PLOS	yes	15.253		
+PLOS Genetics	PLOS	yes	8.517		
+PLOS Computational Biology	PLOS	yes	4.867		
+PLOS Pathogens	PLOS	yes	8.136		
+PLOS Neglected Tropical Diseases	PLOS	yes	4.569		
+PLOS Currents	PLOS	no	N/A	Streamlined peer review process that determines as rapidly as possible if the conception, structure and presentation of the submission indicate that it is a legitimate work of science and does not contain any obvious methodological, ethical or legal violations. Emphasis is placed on the results and data, rather than on perceived impact	
+BMC Evolutionary Biology	BMC	 minor	3.29	It is journal policy to publish work deemed by peer reviewers to be a coherent and sound addition to scientific knowledge and to put less emphasis on interest levels, provided that the research constitutes a useful contribution to the field.	http://www.biomedcentral.com/bmcevolbiol
+BMC Biology	BMC	 yes	6.53	BMC Biology is the flagship biology journal of the BMC series, publishing peer-reviewed research and methodology articles of special importance and broad interest in any area of biology	
+BMC Ecology	BMC	minor	N/A	It is journal policy to publish work deemed by peer reviewers to be a coherent and sound addition to scientific knowledge and to put less emphasis on interest levels, provided that the research constitutes a useful contribution to the field.	
+BMC Genetics	BMC	minor	2.81	It is journal policy to publish work deemed by peer reviewers to be a coherent and sound addition to scientific knowledge and to put less emphasis on interest levels, provided that the research constitutes a useful contribution to the field.	
+BMC Genomics	BMC	minor	4.4	It is journal policy to publish work deemed by peer reviewers to be a coherent and sound addition to scientific knowledge and to put less emphasis on interest levels, provided that the research constitutes a useful contribution to the field.	
+BMC Bioinformatics	BMC	minor	3.02	It is journal policy to publish work deemed by peer reviewers to be a coherent and sound addition to scientific knowledge and to put less emphasis on interest levels, provided that the research constitutes a useful contribution to the field.	
+Ecology and Evolution	BES/Wiley	no	1.184	Original papers must must report well-conducted research with conclusions supported by the data in the paper	
+eLife		yes	N/A		
+PeerJ	PeerJ	no	N/A	PeerJ evaluates articles objective determination of scientific and methodological soundness, not on subjective determinations of 'impact,' 'novelty' or 'interest'.	
+Nature Communications	Nature	yes	10.015	Papers published by the journal represent important advances of significance to specialists within each field	
+Scientific Reports	Nature	no	2.927	All papers are rapidly and fairly peer reviewed to ensure they are technically sound	
+Ecosphere	ESA	no	N/A		

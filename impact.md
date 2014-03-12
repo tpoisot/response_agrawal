@@ -2,8 +2,7 @@
 % List of authors to be determined
 % ...
 
-In a recent Letter, [@agrawal2014] raises four points for which scientists should
-be skeptical of the Open Access (OA) movement, including the fact that
+In a recent Letter, [@agrawal2014] raises four points for which scientists should be skeptical of the Open Access (OA) movement, including the fact that
 publishing in OA journals can *lower* one's impact. Before we present a
 dissenting view, we feel like clarifying some mis-conceptions is in order. OA
 is a mode of diffusion of scientific literature in which the authors, or
@@ -23,12 +22,7 @@ available to the largest possible number. The fact that OA journals are not
 necessarily *non-selective* has been covered in the response by Lanford &
 Pennel's response, so we will not elaborate on this point any further.
 
-[@agrawal2014] raises two points against OA that are of particular relevance for
-early career scientists. First, the impact factor of OA journals is not higher
-than the impact factor of non-OA journals. Second, it is tempting to use the
-journal as a surrogate for the quality of a paper, and less prestigious OA
-journals run a risk of seeing good papers viewed less favorably. We do not
-think that any of these points are valid arguments against open access.
+[@agrawal2014] raises two points against OA that are of particular relevance for early career scientists. First, the impact factor of OA journals is not higher than the impact factor of non-OA journals. Second, it is tempting to use the journal as a surrogate for the quality of a paper, and less prestigious OA journals run a risk of seeing good papers viewed less favorably. We do not think that any of these points are valid arguments against open access.
 
 First, the distinction between OA and non-OA journals is a false
 dichotomy. Although there are journals applying an open access (often of the

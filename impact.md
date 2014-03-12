@@ -2,7 +2,7 @@
 % List of authors to be determined
 % ...
 
-In a recent Letter, @agrawal raises four points for which scientists should
+In a recent Letter, [@agrawal2014] raises four points for which scientists should
 be skeptical of the Open Access (OA) movement, including the fact that
 publishing in OA journals can *lower* one's impact. Before we present a
 dissenting view, we feel like clarifying some mis-conceptions is in order. OA
@@ -15,7 +15,7 @@ are minimal limits to its reproduction, re-use, and possibly modification).
 
 That some "predatory" publishers are taking advantage of this model
 to generate a profit is undeniable. However, these are well identified,
-and easy to avoid. There is a list of such publishers ([link to list])
+and easy to avoid. There is a list of such publishers [@Beall2014]
 available on line for easy reference. In itself, OA is not built on whether
 a profit will be made (many non-OA journals, for example those operated
 by societies, are for-profit), but on the making the output of research
@@ -23,7 +23,7 @@ available to the largest possible number. The fact that OA journals are not
 necessarily *non-selective* has been covered in the response by Lanford &
 Pennel's response, so we will not elaborate on this point any further.
 
-@agrawal raises two points against OA that are of particular relevance for
+[@agrawal2014] raises two points against OA that are of particular relevance for
 early career scientists. First, the impact factor of OA journals is not higher
 than the impact factor of non-OA journals. Second, it is tempting to use the
 journal as a surrogate for the quality of a paper, and less prestigious OA
@@ -57,7 +57,7 @@ regardless of the journal it appeared in. We think that rather than pushing
 against the OA model, we should have a discussion about how these measures
 can be used in the evaluation of scientists.
 
-@agrawal concludes his paper on the need to find *an alternative model of
+[@agrawal2014] concludes his paper on the need to find *an alternative model of
 publishing that suits the primary goals of scientists*. On that, we could not
 agree more. However, what that *primary goal* is seems open to debate. We
 would like to make the point that, particularly in ecology and environmental
@@ -66,3 +66,7 @@ that can be mobilized to solve large scale problems. Making information flow
 freely between scientists, policy-makers, and stakeholders is paramount to
 this effort. What does not strikes us as a *primary* goal, is the maximization
 of self-aggrandizing, not to mention arbitrary, measures of impact.
+
+## Literature Cited
+
+

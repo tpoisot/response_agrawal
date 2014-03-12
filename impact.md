@@ -2,7 +2,7 @@
 % List of authors to be determined
 % ...
 
-In a recent Letter, @agrawal raises four points for which scientists should
+In a recent Letter, @agrawal2014 raises four points for which scientists should
 be skeptical of the Open Access (OA) movement, two of which we think are
 particularly mis-leading. First, that the impact factor of OA journals
 is not higher than the impact factor of non-OA journals. Second, that it
@@ -40,7 +40,7 @@ regardless of the journal it appeared in. We think that rather than pushing
 against the OA model, we should have a discussion about how these measures
 can be used in the evaluation of scientists.
 
-@agrawal concludes his paper on the need to find *an alternative model of
+@agrawal2014 concludes his paper on the need to find *an alternative model of
 publishing that suits the primary goals of scientists*. On that, we could not
 agree more. However, what that *primary goal* is seems open to debate. We
 would like to make the point that, particularly in ecology and environmental
@@ -49,3 +49,7 @@ that can be mobilized to solve large scale problems. Making information flow
 freely between scientists, policy-makers, and stakeholders is paramount to
 this effort. What does not strikes us as a *primary* goal, is the maximization
 of self-aggrandizing, not to mention arbitrary, measures of impact.
+
+## Literature Cited
+
+

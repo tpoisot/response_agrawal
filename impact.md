@@ -3,43 +3,26 @@
 % ...
 
 In a recent Letter, @agrawal raises four points for which scientists should
-be skeptical of the Open Access (OA) movement, including the fact that
-publishing in OA journals can *lower* one's impact. Before we present a
-dissenting view, we feel like clarifying some mis-conceptions is in order. OA
-is a mode of diffusion of scientific literature in which the authors, or
-its home institution, buys back the rights of an article to the publisher,
-so that the article is free to access. It is generally agreed that the
-article is free, to use a metaphor from software development, "as in beer"
-(*i.e.* there is no need to pay for it), and "as in speech" (*i.e.* there
-are minimal limits to its reproduction, re-use, and possibly modification).
+be skeptical of the Open Access (OA) movement, two of which we think are
+particularly mis-leading. First, that the impact factor of OA journals
+is not higher than the impact factor of non-OA journals. Second, that it
+is tempting to use the journal as a surrogate for the quality of a paper,
+and less prestigious OA journals run a risk of seeing good papers viewed less
+favorably. We do not think that any of these points are valid arguments against
+open access.
 
-That some "predatory" publishers are taking advantage of this model
-to generate a profit is undeniable. However, these are well identified,
-and easy to avoid. There is a list of such publishers ([link to list])
-available on line for easy reference. In itself, OA is not built on whether
-a profit will be made (many non-OA journals, for example those operated
-by societies, are for-profit), but on the making the output of research
-available to the largest possible number. The fact that OA journals are not
-necessarily *non-selective* has been covered in the response by Lanford &
-Pennel's response, so we will not elaborate on this point any further.
-
-@agrawal raises two points against OA that are of particular relevance for
-early career scientists. First, the impact factor of OA journals is not higher
-than the impact factor of non-OA journals. Second, it is tempting to use the
-journal as a surrogate for the quality of a paper, and less prestigious OA
-journals run a risk of seeing good papers viewed less favorably. We do not
-think that any of these points are valid arguments against open access.
-
-First, the distinction between OA and non-OA journals is a false
-dichotomy. Although there are journals applying an open access (often of the
-*Creative Commons* variety) to all articles they publish, an increasing number
-of publishers allow authors to pay a *per* article OA license to retain their
-copyright, and so there exists a continuum between pure-OA, mixed-models,
-and closed journals. Even though, the notion that pure-OA journals have
-a lower impact is challenged by some. James Pringle of Thomson ISI (i)
-recognizes that the relevance of journals when talking about OA is dubious
-and (ii) "prospective authors should not fear publishing in these journals"
-[http://www.nature.com/nature/focus/accessdebate/19.html].
+First, the distinction beween OA and non OA journals is a clear false
+dichotomy. OA is a mode of diffusion of scientific literature in which the
+authors, or its home institution, buys back the rights of an article to the
+publisher, so that the article is free to access. Although some journals apply
+an OA licences to their entire content, an increasing number of publishers
+are adopting *per* article OA options. Even though, the notion that pure-OA
+journals have a lower impact is challenged by some. James Pringle of Thomson
+ISI (i) recognizes that the relevance of journals when talking about OA is
+dubious and (ii) "prospective authors should not fear publishing in these
+journals" [http://www.nature.com/nature/focus/accessdebate/19.html]. In
+addition, there are numerous studies showing a clear *Open Access citation
+advantage* [http://www.istl.org/10-winter/article2.html].
 
 Second, the fact that OA journals carry less prestige is not a problem with
 the OA movement. Measures of journal impact are known to be extremely biased

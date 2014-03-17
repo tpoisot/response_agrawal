@@ -7,10 +7,12 @@ the opinion presented in this letter (i) is representative of the reality
 of the open-access movement in any way, and (ii) represents a constructive
 discussion of the merits of OA as opposed to subscription-based publishing.
 
-Specifically, we make the point that claiming that OA is detrimental to the
-career prospects of early career scientists is fear mongering. We bring several
-additional references, directly contradicting the opinions and facts expressed
-by Agrawal, that show how publishing in OA-journals has immediate benefits.
+Specifically, we make the point that claiming that OA is detrimental to
+the career prospects of early career scientists is fear mongering. In our
+response, we try to bring a more balanced point of view, specifically by (1)
+outlining some studies showing an advantage to OA papers and (2) discussing
+whether the lack of impact of OA papers is a problem with OA itself, or with
+the metrics used for evaluation.
 
 Importantly, Agrawal exhorts scientists to find a publication model that
 serves their primary goal. We question whether this primary goal is the

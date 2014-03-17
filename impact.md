@@ -1,6 +1,6 @@
 % Don't be afraid of Open Access
 % T. Poisot, K. Ram
-% ...
+% March. 17, 2014
 
 In a recent Letter, @agrawal2014 raises four points for which scientists
 should be skeptical of the Open Access (OA) movement, two of which we think
@@ -48,6 +48,18 @@ be mobilized to solve large scale problems. Making information flow freely
 between scientists, policy-makers, and stakeholders is paramount to this
 effort. What does not strikes us as a *primary* goal, is the maximization
 of self-aggrandizing, not to mention arbitrary, measures of impact.
+
+## Affiliations
+
+*T.P.* (1) Université du Québec à Rimouski, Département de Biologie,
+300 Allée des Ursulines, G5L 3A1 Rimouski (QC), Canada **and** (2)
+Québec Centre for Biodiversity Sciences, Montréal (QC), Canada **and**
+(3) International Network of Next-Generation Ecologists
+
+*K.R.* (4) Environmental Science, Policy, and Management, University of
+California, Berkeley, Berkeley, CA 94720, USA
+
+*Corresp.*: TP, `t.poisot@gmail.com`
 
 ## Literature Cited
 
